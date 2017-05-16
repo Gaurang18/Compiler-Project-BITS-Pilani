@@ -1,0 +1,46 @@
+** Test case c1.txt: Handles simple expressions**
+
+<<<driver program>>>
+start
+	declare x,y, z:integer;
+	declare A:array[1..15] of real;
+	get_value(x);
+	get_value(y);
+	declare sum, value:integer;
+	z:= 19;
+	sum:= x*20;
+	value:= sum + z*2 - x*y;
+	print(sum);
+	print(value);					    
+end
+
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$

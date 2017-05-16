@@ -1,0 +1,29 @@
+<<<driver program>>>
+
+start
+	declare a, b, c:integer;
+	declare d, e:boolean;
+	get_value(a);
+	get_value(b);
+	d := a>b;
+	e := b>c;
+	switch(d)
+	start
+		case true: 
+			  switch(e)
+				start
+					case true: 
+			   		print(a);
+					break;
+			   		
+					case false: print(b);
+			   		break;
+				end
+			   break;
+		case false: print(b);
+			   break;
+	end
+	
+end
+$
+$
