@@ -1,5 +1,6 @@
 # COMPILER CONSTRUCTION
 
+Got A Grade in the project
 This Project is designed in C for ELPLAG Language as fulfillment for Compiler Construction Course
 The Project is fully executable and testcases have been added for reference
 
